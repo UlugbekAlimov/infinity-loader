@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Запись 1",
+      "description": "Описание 1",
+      "date": "2024-07-19",
+      "amount": 100,
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "name": "Запись 2",
+      "description": "Описание 2",
+      "date": "2024-07-20",
+      "amount": 200,
+      "status": "inactive"
+    },
+    {
+      "id": 3,
+      "name": "Запись 3",
+      "description": "Описание 3",
+      "date": "2024-07-21",
+      "amount": 300,
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "name": "Запись 4",
+      "description": "Описание 4",
+      "date": "2024-07-22",
+      "amount": 400,
+      "status": "inactive"
+    },
+    {
+      "id": 5,
+      "name": "Запись 5",
+      "description": "Описание 5",
+      "date": "2024-07-23",
+      "amount": 500,
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "name": "Запись 6",
+      "description": "Описание 6",
+      "date": "2024-07-24",
+      "amount": 600,
+      "status": "inactive"
+    },
+    {
+      "id": 7,
+      "name": "alice",
+      "description": "lorem ipsum",
+      "date": "2024-07-20",
+      "amount": 12,
+      "status": "12"
+    },
+    {
+      "id": 8,
+      "name": "new record",
+      "description": "test",
+      "date": "2024-07-15",
+      "amount": 12,
+      "status": "inactive"
+    },
+    {
+      "id": 9,
+      "name": "test",
+      "description": "lorem ipsum",
+      "date": "2024-07-19",
+      "amount": 12,
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "name": "Запись 10",
+      "description": "Описание 10",
+      "date": "2024-07-25",
+      "amount": 700,
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "name": "Запись 11",
+      "description": "Описание 11",
+      "date": "2024-07-26",
+      "amount": 800,
+      "status": "inactive"
+    },
+    {
+      "id": 12,
+      "name": "Запись 12",
+      "description": "Описание 12",
+      "date": "2024-07-27",
+      "amount": 900,
+      "status": "active"
+    },
+    {
+      "id": "1c5a",
+      "name": "new",
+      "description": "123",
+      "date": "2024-07-25",
+      "amount": 12,
+      "status": "inactive"
+    },
+    {
+      "id": "8e9b",
+      "name": "alice111",
+      "description": "ew",
+      "date": "2024-07-10",
+      "amount": 12,
+      "status": "12"
+    },
+    {
+      "id": "924c",
+      "name": "new",
+      "description": "lorem ipsum",
+      "date": "2024-07-31",
+      "amount": 12,
+      "status": "active"
+    },
+    {
+      "id": "0983",
+      "name": "www",
+      "description": "123",
+      "date": "2024-07-04",
+      "amount": 0,
+      "status": "12"
+    },
+    {
+      "id": "70e5",
+      "name": "ц",
+      "description": "ц",
+      "date": "ц",
+      "amount": 1,
+      "status": true
+    }
+  ]
+}

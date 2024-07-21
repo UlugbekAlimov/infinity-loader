@@ -1,0 +1,39 @@
+.user-list div {
+  margin-bottom: 1rem; 
+  padding: 1rem; 
+  border-bottom: 1px solid #ddd; 
+  background-color: #fff; 
+  border-radius: 4px; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.user-list h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+  color: #333; 
+}
+
+app-form {
+  display: block;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 20px;
+  z-index: 1000;
+}
+
+
+
+.hidden {
+  display: none;
+}
+
+.user-list {
+  .user-item {
+    margin-bottom: 1rem;
+  }
+}
